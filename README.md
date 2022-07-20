@@ -7,4 +7,3 @@ Terminalden Otomasyonu Çalıştırmak için: "npx codeceptjs run" komutunu kull
 
 nodejs version v12.16.1 kurulmalıdır.
 
-Her hakkı saklıdır ©Sena Tevetoğlu 2021
